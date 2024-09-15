@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @abhijit826
-- 👀 I’m interested in CSE
+- 👋 Hi, I’m ABHIJIT!
+- 👀 I’m interested in DESIGNING NEW PROTOTYPE
 - 🌱 I’m currently learning COMPUTER SCIENCE ENGINEERING
 
 
