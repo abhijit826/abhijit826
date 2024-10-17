@@ -3,7 +3,7 @@
 <h1 class="animated-heading">Hi 👋, I'm ABHIJIT RANJAN</h1>
 
 <h2 align="center">A passionate Web Developer</h2>
-<img align= "center" alt="Coding" width="500" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://camo.githubusercontent.com/b5c04b14189150de102db0ff5413d090335ef7ff9da87e5c7395bb3f734e8dd5/687474703a2f2f692e696d6775722e636f6d2f7938673530366e2e706e673f31)">
+<img align= "center" alt="Coding" width="500" src="(https://camo.githubusercontent.com/b5c04b14189150de102db0ff5413d090335ef7ff9da87e5c7395bb3f734e8dd5/687474703a2f2f692e696d6775722e636f6d2f7938673530366e2e706e673f31)">
 
 # 💫 About Me:
 👋 Hi, I’m ABHIJIT!<br>👀 I’m interested in DESIGNING NEW PROTOTYPE<br>🌱 I’m currently learning COMPUTER SCIENCE ENGINEERING<br>🌱 I’m currently learning MERN, JS<br><br>💬 Ask me about REACT-JS
