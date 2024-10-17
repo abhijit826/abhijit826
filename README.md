@@ -28,6 +28,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=abhijit826&icon=0&color=11)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/abhijit826/abhijit826/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/abhijit826/abhijit826/blob/output/github-snake-dark.svg)
 
 
