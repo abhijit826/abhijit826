@@ -6,7 +6,7 @@
 <img align= "center" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
 # 💫 About Me:
-👋 Hi, I’m ABHIJIT!<br>👀 I’m interested in DESIGNING NEW PROTOTYPE<br>🌱 I’m currently learning COMPUTER SCIENCE ENGINEERING<br>🌱 I’m currently learning MERN, JS<br><br>💬 Ask me about Rust
+👋 Hi, I’m ABHIJIT!<br>👀 I’m interested in DESIGNING NEW PROTOTYPE<br>🌱 I’m currently learning COMPUTER SCIENCE ENGINEERING<br>🌱 I’m currently learning MERN,<br><br>💬 Ask me about Rust
 
 
 ## 🌐 Socials:
